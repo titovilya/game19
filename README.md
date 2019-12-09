@@ -1,7 +1,6 @@
-# game19
+# The "19"
 
-I`m the first-year student and it`s my first program.
-
+`I am the first-year student. It is my first program.
 
 The name of the game is "19".
 Rules of the game: cross out identical pairs of numbers, or in total giving 10.
