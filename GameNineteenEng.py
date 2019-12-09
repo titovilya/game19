@@ -1,4 +1,4 @@
-#The of the game "19"
+#The name of the game "19"
 
 a = [[1, 2, 3, 4, 5, 6, 7, 8, 9],
      [1, 1, 1, 2, 1, 3, 1, 4, 1],
